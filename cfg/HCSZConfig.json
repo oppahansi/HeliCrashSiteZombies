@@ -1,0 +1,15 @@
+{
+    "g_HCSZDisableLogMessages": 0,
+    "g_HCSZZombiesMin": 5,
+    "g_HCSZZombiesMax": 12,	
+	"g_HCSZDisableUH1YZombies": 0,
+    "g_HCSZDisableMi8Zombies": 0,
+	"g_HCSZZombieMinDistFromHeli": 5,
+    "g_HCSZZombieMaxDistFromHeli": 45,
+	"g_HCSZAnimalsMin": 3,
+	"g_HCSZAnimalsMax": 7,
+    "g_HCSZDisableUH1YAnimals": 0,
+    "g_HCSZDisableMi8Animals": 0,
+	"g_HCSZAnimalsMinDistFromHeli": 75,
+    "g_HCSZAnimalsMaxDistFromHeli": 90
+}
